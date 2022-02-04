@@ -1,6 +1,2 @@
-import uuid
-
-
-def main(a: uuid) -> str:
-    print(a)
+def main() -> str:
     return "SELECT 1"
