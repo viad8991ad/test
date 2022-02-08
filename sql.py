@@ -1,2 +1,2 @@
-def main() -> str:
-    return "SELECT 1"
+def main():
+    return "SELECT ?", (1,)
